@@ -23,7 +23,7 @@ The Reqaps UI focuses on delivering a clean and modern reading interface, ensuri
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/reqaps-ui.git
+   git clone  https://github.com/DevAdii13/Reqaps
    cd reqaps-ui
    ```
 2. Install dependencies:
